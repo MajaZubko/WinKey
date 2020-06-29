@@ -1,0 +1,23 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Maja Zu\Programming\WinKey1stLine\out\artifacts\WinKey1stLine_jar2\WinKey1stLinetest.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Maja Zu\Programming\WinKey1stLine\out\artifacts\WinKey1stLine_jar2\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_251
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000_251
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_251 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Maja Zu\Programming\WinKey1stLine\out\artifacts\WinKey1stLine_jar2\WinKey1stLinetest.exe"
+Args length:	104/32768 chars
+Exit code:	0
